@@ -15,7 +15,7 @@ const showMore = () => {
       </figure>
 
       <div class="info-content">
-        <h1 class="name" title="Richard hanrick">ZhouHao</h1>
+        <h1 class="name" title="Richard hanrick">周浩 | ZhouHao</h1>
 
         <p class="title">前端开发工程师</p>
       </div>
@@ -198,28 +198,12 @@ const showMore = () => {
       <h3 class="h3 testimonials-title">推荐信</h3>
 
       <ul class="testimonials-list has-scrollbar">
+
+        
         <li class="testimonials-item">
           <div class="content-card" data-testimonials-item>
             <figure class="testimonials-avatar-box">
-              <img src="@/assets/images/avatar-1.png" alt="Daniel lewis" width="60" data-testimonials-avatar />
-            </figure>
-
-            <h4 class="h4 testimonials-item-title" data-testimonials-title>
-              马云
-            </h4>
-
-            <div class="testimonials-text" data-testimonials-text>
-              <p>
-                周浩被雇来创造一个公司形象。我们对完成的工作非常满意。她有丰富的经验，非常关心客户的需求。这是一种很有价值的东西。
-              </p>
-            </div>
-          </div>
-        </li>
-
-        <li class="testimonials-item">
-          <div class="content-card" data-testimonials-item>
-            <figure class="testimonials-avatar-box">
-              <img src="@/assets/images/avatar-3.png" alt="Emily evans" width="60" data-testimonials-avatar />
+              <img src="@/assets/images/avatar-1.png" alt="Emily evans" width="60" data-testimonials-avatar />
             </figure>
 
             <h4 class="h4 testimonials-item-title" data-testimonials-title>
@@ -234,14 +218,15 @@ const showMore = () => {
           </div>
         </li>
 
+
         <li class="testimonials-item">
           <div class="content-card" data-testimonials-item>
             <figure class="testimonials-avatar-box">
-              <img src="@/assets/images/avatar-2.png" alt="Jessica miller" width="60" data-testimonials-avatar />
+              <img src="@/assets/images/avatar-1.png" alt="Daniel lewis" width="60" data-testimonials-avatar />
             </figure>
 
             <h4 class="h4 testimonials-item-title" data-testimonials-title>
-              马化腾
+              马云
             </h4>
 
             <div class="testimonials-text" data-testimonials-text>
