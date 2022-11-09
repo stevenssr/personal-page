@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{o,c as t}from"./index.654ea00c.js";const c={},r={style:{color:"red","font-size":"80px"}};function s(n,_){return o(),t("div",r,"\u8FD8\u6CA1\u5F04\u8FD9\u91CC\uFF01\uFF01\uFF01\u5927\u50BB\u903C\uFF01\uFF01\uFF01")}const i=e(c,[["render",s]]);export{i as default};

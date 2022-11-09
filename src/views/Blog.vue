@@ -7,153 +7,51 @@
         <section class="blog-posts">
             <ul class="blog-posts-list">
                 <li class="blog-post-item">
-                    <a href="#">
+                    <div>
                         <figure class="blog-banner-box">
-                            <img src="@/assets/images/blog-1.jpg" alt="Design conferences in 2022" loading="lazy" />
+                            <img src="@/assets/images/code1.png" alt="Design conferences in 2022" loading="lazy"  />
                         </figure>
 
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <p class="blog-category">Design</p>
+                                <p class="blog-category">开发</p>
 
                                 <span class="dot"></span>
 
-                                <time datetime="2022-02-23">Fab 23, 2022</time>
+                                <time datetime="2022-02-23">2022 03 18</time>
                             </div>
 
-                            <h3 class="h3 blog-item-title">Design conferences in 2022</h3>
+                            <h3 class="h3 blog-item-title">关于js中高阶函数的使用</h3>
 
                             <p class="blog-text">
-                                Veritatis et quasi architecto beatae vitae dicta sunt,
-                                explicabo.
+                                让我们看看一些内置高阶函数的例子，看看它与不使用高阶函数的方案对比如何。
                             </p>
                         </div>
-                    </a>
+                    </div>
                 </li>
 
                 <li class="blog-post-item">
-                    <a href="#">
+                    <div>
                         <figure class="blog-banner-box">
-                            <img src="@/assets/images/blog-2.jpg" alt="Best fonts every designer" loading="lazy" />
+                            <img src="@/assets/images/code2.png" alt="Best fonts every designer" loading="lazy" />
                         </figure>
 
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <p class="blog-category">Design</p>
+                                <p class="blog-category">开发</p>
 
                                 <span class="dot"></span>
 
-                                <time datetime="2022-02-23">Fab 23, 2022</time>
+                                <time datetime="2022-02-23">2022 05 16</time>
                             </div>
 
-                            <h3 class="h3 blog-item-title">Best fonts every designer</h3>
+                            <h3 class="h3 blog-item-title">在小程序中使用echarts</h3>
 
                             <p class="blog-text">
-                                Sed ut perspiciatis, nam libero tempore, cum soluta nobis est
-                                eligendi.
+                                echarts是一个基于 JavaScript 的开源可视化图表库
                             </p>
                         </div>
-                    </a>
-                </li>
-
-                <li class="blog-post-item">
-                    <a href="#">
-                        <figure class="blog-banner-box">
-                            <img src="@/assets/images/blog-3.jpg" alt="Design digest #80" loading="lazy" />
-                        </figure>
-
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <p class="blog-category">Design</p>
-
-                                <span class="dot"></span>
-
-                                <time datetime="2022-02-23">Fab 23, 2022</time>
-                            </div>
-
-                            <h3 class="h3 blog-item-title">Design digest #80</h3>
-
-                            <p class="blog-text">
-                                Excepteur sint occaecat cupidatat no proident, quis nostrum
-                                exercitationem ullam corporis suscipit.
-                            </p>
-                        </div>
-                    </a>
-                </li>
-
-                <li class="blog-post-item">
-                    <a href="#">
-                        <figure class="blog-banner-box">
-                            <img src="@/assets/images/blog-4.jpg" alt="UI interactions of the week" loading="lazy" />
-                        </figure>
-
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <p class="blog-category">Design</p>
-
-                                <span class="dot"></span>
-
-                                <time datetime="2022-02-23">Fab 23, 2022</time>
-                            </div>
-
-                            <h3 class="h3 blog-item-title">UI interactions of the week</h3>
-
-                            <p class="blog-text">
-                                Enim ad minim veniam, consectetur adipiscing elit, quis nostrud
-                                exercitation ullamco laboris nisi.
-                            </p>
-                        </div>
-                    </a>
-                </li>
-
-                <li class="blog-post-item">
-                    <a href="#">
-                        <figure class="blog-banner-box">
-                            <img src="@/assets/images/blog-5.jpg" alt="The forgotten art of spacing" loading="lazy" />
-                        </figure>
-
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <p class="blog-category">Design</p>
-
-                                <span class="dot"></span>
-
-                                <time datetime="2022-02-23">Fab 23, 2022</time>
-                            </div>
-
-                            <h3 class="h3 blog-item-title">The forgotten art of spacing</h3>
-
-                            <p class="blog-text">
-                                Maxime placeat, sed do eiusmod tempor incididunt ut labore et
-                                dolore magna aliqua.
-                            </p>
-                        </div>
-                    </a>
-                </li>
-
-                <li class="blog-post-item">
-                    <a href="#">
-                        <figure class="blog-banner-box">
-                            <img src="@/assets/images/blog-6.jpg" alt="Design digest #79" loading="lazy" />
-                        </figure>
-
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <p class="blog-category">Design</p>
-
-                                <span class="dot"></span>
-
-                                <time datetime="2022-02-23">Fab 23, 2022</time>
-                            </div>
-
-                            <h3 class="h3 blog-item-title">Design digest #79</h3>
-
-                            <p class="blog-text">
-                                Optio cumque nihil impedit uo minus quod maxime placeat, velit
-                                esse cillum.
-                            </p>
-                        </div>
-                    </a>
+                    </div>
                 </li>
             </ul>
         </section>

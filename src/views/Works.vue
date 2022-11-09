@@ -6,24 +6,40 @@
 
         <section class="projects">
             <ul class="project-list">
-                <li class="project-item active" data-filter-item data-category="web development">
-                    <a href="#">
+                <li class="project-item active" data-filter-item data-category="applications">
+                    <div>
                         <figure class="project-img">
                             <div class="project-item-icon-box">
                                 <ion-icon name="eye-outline"></ion-icon>
                             </div>
 
-                            <img src="@/assets/images/project-1.jpg" alt="finance" loading="lazy" />
+                            <img src="@/assets/images/code6.png" alt="brawlhalla" loading="lazy" />
                         </figure>
 
-                        <h3 class="project-title">Finance</h3>
+                        <h3 class="project-title">停车小程序</h3>
 
-                        <p class="project-category">Web development</p>
-                    </a>
+                        <p class="project-category">前端开发</p>
+                    </div>
+                </li>
+                
+                <li class="project-item active" data-filter-item data-category="web development">
+                    <div>
+                        <figure class="project-img">
+                            <div class="project-item-icon-box">
+                                <ion-icon name="eye-outline"></ion-icon>
+                            </div>
+
+                            <img src="@/assets/images/code3.png" alt="finance" loading="lazy" />
+                        </figure>
+
+                        <h3 class="project-title">透明标签小程序 / App</h3>
+
+                        <p class="project-category">前端开发</p>
+                    </div>
                 </li>
 
                 <li class="project-item active" data-filter-item data-category="web development">
-                    <a href="#">
+                    <div>
                         <figure class="project-img">
                             <div class="project-item-icon-box">
                                 <ion-icon name="eye-outline"></ion-icon>
@@ -35,143 +51,49 @@
                         <h3 class="project-title">后台管理系统</h3>
 
                         <p class="project-category">前端开发</p>
-                    </a>
+                    </div>
                 </li>
 
                 <li class="project-item active" data-filter-item data-category="web design">
-                    <a href="#">
+                    <div>
                         <figure class="project-img">
                             <div class="project-item-icon-box">
                                 <ion-icon name="eye-outline"></ion-icon>
                             </div>
 
-                            <img src="@/assets/images/project-3.jpg" alt="fundo" loading="lazy" />
+                            <img src="@/assets/images/code4.png" alt="fundo" loading="lazy" />
                         </figure>
 
-                        <h3 class="project-title">Fundo</h3>
+                        <h3 class="project-title">物流园区小程序 司机端 / 管理端</h3>
 
-                        <p class="project-category">Web design</p>
-                    </a>
+                        <p class="project-category">前端开发</p>
+                    </div>
                 </li>
 
-                <li class="project-item active" data-filter-item data-category="applications">
-                    <a href="#">
-                        <figure class="project-img">
-                            <div class="project-item-icon-box">
-                                <ion-icon name="eye-outline"></ion-icon>
-                            </div>
-
-                            <img src="@/assets/images/project-4.png" alt="brawlhalla" loading="lazy" />
-                        </figure>
-
-                        <h3 class="project-title">Brawlhalla</h3>
-
-                        <p class="project-category">Applications</p>
-                    </a>
-                </li>
-
-                <li class="project-item active" data-filter-item data-category="web design">
-                    <a href="#">
-                        <figure class="project-img">
-                            <div class="project-item-icon-box">
-                                <ion-icon name="eye-outline"></ion-icon>
-                            </div>
-
-                            <img src="@/assets/images/project-5.png" alt="dsm." loading="lazy" />
-                        </figure>
-
-                        <h3 class="project-title">DSM.</h3>
-
-                        <p class="project-category">Web design</p>
-                    </a>
-                </li>
-
-                <li class="project-item active" data-filter-item data-category="web design">
-                    <a href="#">
-                        <figure class="project-img">
-                            <div class="project-item-icon-box">
-                                <ion-icon name="eye-outline"></ion-icon>
-                            </div>
-
-                            <img src="@/assets/images/project-6.png" alt="metaspark" loading="lazy" />
-                        </figure>
-
-                        <h3 class="project-title">MetaSpark</h3>
-
-                        <p class="project-category">Web design</p>
-                    </a>
-                </li>
-
-                <li class="project-item active" data-filter-item data-category="web development">
-                    <a href="#">
-                        <figure class="project-img">
-                            <div class="project-item-icon-box">
-                                <ion-icon name="eye-outline"></ion-icon>
-                            </div>
-
-                            <img src="@/assets/images/project-7.png" alt="summary" loading="lazy" />
-                        </figure>
-
-                        <h3 class="project-title">Summary</h3>
-
-                        <p class="project-category">Web development</p>
-                    </a>
-                </li>
-
-                <li class="project-item active" data-filter-item data-category="applications">
-                    <a href="#">
-                        <figure class="project-img">
-                            <div class="project-item-icon-box">
-                                <ion-icon name="eye-outline"></ion-icon>
-                            </div>
-
-                            <img src="@/assets/images/project-8.jpg" alt="task manager" loading="lazy" />
-                        </figure>
-
-                        <h3 class="project-title">Task Manager</h3>
-
-                        <p class="project-category">Applications</p>
-                    </a>
-                </li>
-
-                <li class="project-item active" data-filter-item data-category="web development">
-                    <a href="#">
-                        <figure class="project-img">
-                            <div class="project-item-icon-box">
-                                <ion-icon name="eye-outline"></ion-icon>
-                            </div>
-
-                            <img src="@/assets/images/project-9.png" alt="arrival" loading="lazy" />
-                        </figure>
-
-                        <h3 class="project-title">Arrival</h3>
-
-                        <p class="project-category">Web development</p>
-                    </a>
-                </li>
+               
             </ul>
         </section>
     </article>
 
-    <div class="box" :style="'bottom:' + boxheight + 'px'" @touchstart='touchstart' @touchmove='touchmove'></div>
+    <!-- <div class="box" :style="'height:' + boxheight + 'px'" @touchstart='touchstart' @touchmove='touchmove'></div> -->
 </template>
 
 
-<script setup>
+<!-- <script setup>
 import { ref } from 'vue';
-const boxheight = ref(0)
+const boxheight = ref(300)
 const startY = ref(0)
+
+
 const touchstart = (e) => {
-    // 如果你要阻止点击事件，请反注释下一行代码
-    // e.preventDefault()
     startY.value = e.touches[0].clientY
-   console.log('手指起始点' +  e.touches[0].clientY);
+    console.log('手指起始点' + e.touches[0].clientY);
 }
 const touchmove = (e) => {
-    console.log(2,e);
-    boxheight.value = e.touches[0].clientY
+    console.log(2, e.touches[0].clientY);
+    boxheight.value = boxheight.value + (startY.value - e.touches[0].clientY)
 }
-</script>
+</script> -->
 
 <style>
 .box {
